@@ -24,7 +24,7 @@
 4. 对保存业务代码进行整体重构。使用 Reactor+任务队列 的模式解决此问题。
 
 **截图**：
-![](/assets/images/1_1.PNG)
+![](/../master/images/1_1.png)
 
 
 #### Linux文件服务器
