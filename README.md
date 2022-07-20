@@ -24,7 +24,7 @@
 4. 对保存业务代码进行整体重构。使用 Reactor+任务队列 的模式解决此问题。
 
 **截图**：
-![]([/../master/images/](https://github.com/kingsun998/program_display/blob/master/images/1_1.png)
+![](https://github.com/kingsun998/program_display/blob/master/images/1_1.png)
 
 
 #### Linux文件服务器
