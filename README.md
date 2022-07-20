@@ -51,6 +51,7 @@
 
 
 **截图**：
+
 ![截图1](https://github.com/kingsun998/program_display/blob/master/images/2_1.png)
 ![截图2](https://github.com/kingsun998/program_display/blob/master/images/2_2.png)
 ![截图3](https://github.com/kingsun998/program_display/blob/master/images/2_3.png)
