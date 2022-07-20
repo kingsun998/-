@@ -24,8 +24,10 @@
 4. 对保存业务代码进行整体重构。使用 Reactor+任务队列 的模式解决此问题。
 
 **截图**：
-![123](https://github.com/kingsun998/program_display/blob/master/images/1_1.PNG)
-
+![截图1](https://github.com/kingsun998/program_display/blob/master/images/1_1.PNG)
+![截图2](https://github.com/kingsun998/program_display/blob/master/images/1_2.PNG)
+![截图3](https://github.com/kingsun998/program_display/blob/master/images/1_3.PNG)
+![截图4](https://github.com/kingsun998/program_display/blob/master/images/1_4.PNG)
 
 #### Linux文件服务器
 **内容**：基于Linux开发的文件服务器和客户端，同时附加密钥服务器，以非对称加密进行密钥协商，对称加密进行数据传输，同时也提供文件校验功能。
