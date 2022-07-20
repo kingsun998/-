@@ -47,3 +47,11 @@
 **采取措施与解决方法**： 在程序运行时出现任务重复执行的问题，经排查发现是任务分配的问题。当读事件已分配但还未处理，循环重新将其分配给另一线程，导致多重分配。
 解决方法：
 通过查询，将epoll的监听和通信事件均置于边缘触发模式，解决此问题。
+
+
+
+**截图**：
+![截图1](https://github.com/kingsun998/program_display/blob/master/images/2_1.png)
+![截图2](https://github.com/kingsun998/program_display/blob/master/images/2_2.png)
+![截图3](https://github.com/kingsun998/program_display/blob/master/images/2_3.png)
+![截图4](https://github.com/kingsun998/program_display/blob/master/images/2_4.png)
